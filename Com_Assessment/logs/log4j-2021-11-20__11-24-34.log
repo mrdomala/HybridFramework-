@@ -1,0 +1,22 @@
+2021-11-20 11:24:47,480  INFO [main] ReadPropertyFile:33 - <<<-navigated to url->>>
+2021-11-20 11:25:11,323  INFO [main] ReadPropertyFile:30 - navigation to url
+2021-11-20 11:26:02,548  INFO [main] ReadPropertyFile:28 - navigation to url
+2021-11-20 11:26:08,515  INFO [main] ReadPropertyFile:36 - Submitted successfully
+2021-11-20 11:26:20,709  INFO [main] ReadPropertyFile:31 - navigation to url
+2021-11-20 11:26:36,789  INFO [main] ReadPropertyFile:40 - navigation to url
+2021-11-20 11:27:08,188  INFO [main] ReadPropertyFile:30 - navigation to url
+2021-11-20 11:27:41,360  INFO [main] ReadPropertyFile:32 - navigation to url
+2021-11-20 11:27:51,133  INFO [main] ReadPropertyFile:42 - Assertion passed
+2021-11-20 11:28:04,473  INFO [main] ReadPropertyFile:34 - navigation to url
+2021-11-20 11:28:13,153  INFO [main] ReadPropertyFile:46 - Assertion passed
+2021-11-20 11:28:21,799  INFO [main] ReadPropertyFile:31 - navigation to url
+2021-11-20 11:28:34,896 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-20 11:28:34,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-20 11:28:34,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-20 11:28:34,907 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-20 11:28:34,914 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/welcome/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-20 11:28:35,455 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-20 11:28:35,455 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-20 11:28:35,456 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-20 11:28:35,457 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-20 11:28:35,458 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/welcome/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
